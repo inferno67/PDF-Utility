@@ -15,6 +15,41 @@ This tool requires Python 3.x and the PyPDF2 library. You can install the depend
 ```bash
 pip install PyPDF2
 ```
+# Clone the repository
+```bash
+git clone https://github.com/your-username/pdf_tool.git
+```
+# Go into the project folder
+```bash
+cd pdf_tool
+```
+
+# (Optional) Create a virtual environment
+```bash
+python -m venv venv
+```
+
+# Activate the virtual environment
+
+# Windows
+```bash
+venv\Scripts\activate
+```
+# Mac/Linux
+```bash
+source venv/bin/activate
+```
+
+# Install dependencies
+```bash
+pip install PyPDF2
+```
+
+# Run the script
+```bash
+python pdf_tool.py
+```
+
 ## How to Use
 
 To use this tool, place the pdf_tool.py script and your PDF files in the same directory.
