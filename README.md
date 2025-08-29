@@ -25,15 +25,15 @@ You can modify the example code within the if __name__ == "__main__": block to p
 
 To merge two files, report1.pdf and report2.pdf, into a new file named combined_reports.pdf:
 
-# To use this, uncomment the line below and replace with your file names
+To use this, uncomment the line below and replace with your file names
 ```bash
 merge_pdfs(["report1.pdf", "report2.pdf"], "combined_reports.pdf")
 ```
-Example 2: Splitting a PDF
+# Example 2: Splitting a PDF
 
 To split a file named long_document.pdf and save pages 1 through 3 to a new file named first_three_pages.pdf:
 
-# To use this, uncomment the line below and replace with your file names and page numbers
+To use this, uncomment the line below and replace with your file names and page numbers
 ```bash
 split_pdf("long_document.pdf", 1, 3, "first_three_pages.pdf")
 ```
