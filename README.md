@@ -10,7 +10,8 @@ A simple, lightweight command-line utility in Python for managing PDF files. Thi
 
 ## Requirements
 
-This tool requires Python 3.x and the PyPDF2 library. You can install the dependency using pp:
+This tool requires Python 3.x and the PyPDF2 library. You can install the dependency using pi
+p:
 
 ```bash
 pip install PyPDF2
