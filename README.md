@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PDF-Utility
 
 A simple yet powerful command-line tool for managing PDF files, built with Python.
