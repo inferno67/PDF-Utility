@@ -151,4 +151,4 @@ split_pdf("long_document.pdf", 1, 3, "first_three_pages.pdf")
 # Contributing
 
 Feel free to fork this repository, suggest improvements, or submit pull requests. All contributions are welcome!
->>>>>>> c0d389cec584639dcb4141f81fe72d17814337ad
+
