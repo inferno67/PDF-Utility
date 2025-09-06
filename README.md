@@ -14,7 +14,7 @@ This utility is designed to be fast, reliable, and easy to use for common PDF ta
 * **Optimization:** Reduce the file size of the output PDF to save storage.
 * **Password Handling:** Work with password-protected PDF files.
 * **Robustness:** Includes checks for file existence and invalid arguments to prevent errors.
-* **User Experience:** Provides a clear, user-friendly interface and a real-time progress bar for long tasks.
+* **User Experience:** Provides a clear, user-friendly interface and a real-time progress bar for tasks.
 
 ## ⚙️ Installation
 
